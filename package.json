@@ -1,0 +1,9 @@
+{
+  "name": "dwnall",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "download": "^8.0.0",
+    "filenamify": "^6.0.0"
+  }
+}
